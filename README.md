@@ -1,2 +1,2 @@
 # task-1
-Learning hot to connect MYSQL in Visual Studio Code.
+Learning how to connect MYSQL in Visual Studio Code.
